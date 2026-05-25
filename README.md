@@ -5,7 +5,7 @@ BE Electronics & Communication Engineering student at Pulchowk Campus
 Currently exploring programming, electronics, and technology one step at a time.
 
 ### Learning
-- C programming
+- C/C++
 - Git & GitHub
 - Engineering fundamentals
 
