@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Stuti Pantha 👋</h1>
 
-<!--
-**Stutiii-19/Stutiii-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BE Electronics & Communication Engineering student at Pulchowk Campus
 
-Here are some ideas to get you started:
+Currently exploring programming, electronics, and technology one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- C programming
+- Git & GitHub
+- Engineering fundamentals
+
+### Goals
+- Build useful projects
+- Learn consistently
+- Grow as an engineer
